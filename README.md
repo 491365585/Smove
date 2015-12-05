@@ -9,5 +9,4 @@
 
 
 
-利用了CollectionView布局九宫格.并通过if..else判断手势进行移动. 
-添加的判断可能有点多,但是大体上的注释都有.
+利用了CollectionView布局九宫格
